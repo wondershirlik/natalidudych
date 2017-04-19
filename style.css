@@ -6,4 +6,19 @@
 
 
 /*	It's header	*/
-
+header {
+	margin: 10px;
+	padding: 15px;
+	width: 100%;
+	box-sizing:border-box;
+}
+header nav li {
+	border: 1px solid black;
+	display: flex;
+}
+nav {
+	max-width: 25px;
+}
+header a {
+	padding: 10px;
+}
